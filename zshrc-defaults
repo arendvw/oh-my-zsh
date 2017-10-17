@@ -37,7 +37,7 @@ HIST_STAMPS="dd.mm.yyyy"
 plugins=(git symfony composer debian symfony2 autojump bower dircycle dirhistory)
 
 # User configuration
-export PATH="/usr/local/bin:/usr/bin:/bin:/sbin/usr/local/sbin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
